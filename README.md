@@ -2,7 +2,7 @@
 
 ## Description
 
-A web app which 
+A web app which uses JSONPlaceholder, a fake REST API, to display 100 post objects via a POST request.
 
 ## Installation
 
